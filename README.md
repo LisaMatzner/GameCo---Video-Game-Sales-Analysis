@@ -18,7 +18,7 @@ GameCo executives are open to hearing about any insights from the data but are s
 ## Project Tools
 Excel
 
-## Used Techniques
+## Techniques Used
 - Data integrety, quality and accuracy checks
 - Data Cleaning
 - Data Grouping & Summarizing (Pivot Tables)
