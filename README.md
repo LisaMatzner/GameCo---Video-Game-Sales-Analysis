@@ -27,7 +27,7 @@ Excel
 - Visual Analysis
 
 ## Data Citation
-[Video Game Sales Data Set - Global retail video game sales from 1980 to 2020.](https://images.careerfoundry.com/public/courses/intro-to-data/E1/vgsales.xlsx)
+["Video Game Sales Data Set" - Global retail video game sales from 1980 to 2020.](https://images.careerfoundry.com/public/courses/intro-to-data/E1/vgsales.xlsx)
 Accessed on 2022-09-26.
 Data provided by [VGChartz](http://vgchartz.com/methodology.php)
 
