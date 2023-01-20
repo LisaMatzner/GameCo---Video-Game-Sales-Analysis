@@ -29,6 +29,6 @@ Excel
 ## Data Citation
 Video Game Sales Data Set
 Global retail video game sales from 1980 to 2020.
-Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on 2022-09-26.
+Accessed from [here](https://images.careerfoundry.com/public/courses/intro-to-data/E1/vgsales.xlsx) on 2022-09-26.
 Data provided by VGChartz
 
